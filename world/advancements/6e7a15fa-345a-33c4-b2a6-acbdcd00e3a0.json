@@ -1,0 +1,672 @@
+{
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_cobblestone_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-01-11 16:17:24 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2026-01-11 16:34:57 +0300"
+    },
+    "done": true
+  },
+  "nucleartech:recipes/nucleartech_items/stone_flat_stamp": {
+    "criteria": {
+      "has_material_tag": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:55:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-01-11 15:55:35 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-01-11 16:18:10 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/workbench": {
+    "criteria": {
+      "has_storage_blocks/gold": "2026-01-11 16:06:40 +0300"
+    },
+    "done": true
+  },
+  "indreb:recipes/building_blocks/crushing/stones/cobblestone_gravel": {
+    "criteria": {
+      "item": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "indreb:recipes/building_blocks/compressing/block/snowball_snow_block": {
+    "criteria": {
+      "item": "2026-01-11 17:03:31 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "indreb:recipes/building_blocks/crushing/stones/mossy_cobblestone_cobblestone": {
+    "criteria": {
+      "item": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_pillar_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-01-11 16:17:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2026-01-11 15:59:30 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_pillar": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2026-01-11 16:34:57 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_bricks_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "indreb:recipes/building_blocks/crushing/stones/stone_cobblestone": {
+    "criteria": {
+      "item": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-01-11 15:34:26 +0300",
+      "minecraft:taiga_hills": "2026-01-11 15:34:17 +0300",
+      "minecraft:beach": "2026-01-11 15:15:02 +0300",
+      "minecraft:river": "2026-01-11 17:07:12 +0300"
+    },
+    "done": false
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-01-11 15:55:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-01-11 15:55:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-01-11 16:16:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-01-11 16:18:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-01-11 17:03:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-01-11 16:18:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-01-11 16:18:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-01-11 16:17:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-01-11 16:18:10 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/mossy_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2026-01-11 16:34:09 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2026-01-11 16:34:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-01-11 17:03:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-01-11 16:18:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2026-01-11 16:34:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2026-01-11 16:06:40 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2026-01-11 16:19:19 +0300"
+    },
+    "done": true
+  },
+  "nucleartech:recipes/nucleartech_templates/machine_template_folder": {
+    "criteria": {
+      "has_paper": "2026-01-11 15:34:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2026-01-11 16:34:57 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
