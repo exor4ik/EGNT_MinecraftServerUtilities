@@ -1,14 +1,19 @@
-# EGNT_MinecraftServerUtilities
+This repository contains the Minecraft server pack.
 
-Mods contained in "mods" folder.
-World files are in "wolrd" colder.
-Configs are in "config" folder.
+## 📁 Folder structure
 
-# Server Info:
-Version: 1.18.2 Forge
-IP: civil-rhythm.gl.joinmc.link
+* Mods are located in the `mods` folder
+* World files are located in the `world` folder
+* Config files are located in the `config` folder
 
-# Mods Jar Names:
+## 🖥 Server Info
+
+* Version: **Minecraft 1.18.2 Forge**
+* IP: `civil-rhythm.gl.joinmc.link`
+
+## 📦 Included mods
+
+```
 1.18.2-SecurityCraft-v1.10.1.jar
 bellsandwhistles-v0.4.1-mc1.18.2.jar
 cloth-config-6.5.102-forge.jar
@@ -33,3 +38,4 @@ Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar
 VEB-1.1.11-1.16.5up.jar
 voicechat-forge-1.18.2-2.6.11.jar
 worldedit-mod-7.2.10-1.18.2-fabric-forge.jar
+```
